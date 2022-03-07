@@ -22,6 +22,7 @@ class deleteLL
             ll.remove(z);
         }
         System.out.println(ll);
+        System.out.println("Yesssss");
 
 
     }
